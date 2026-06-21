@@ -1,1 +1,1 @@
-Download folder. RUN Cs.exe. Done
+bin -> x86 -> debug -> net8.0 -> click CS.exe. Done. (if your game requiers admininstrator for WriteProcessMemory you will have to run as admin so access from the process is not revoked (Steam Version)). 
