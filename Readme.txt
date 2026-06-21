@@ -1,0 +1,1 @@
+Download folder. enter the bin folder -> x86 folder -> debug -> net 8.0 -> run CS.exe while conditiion zero is open. Done
